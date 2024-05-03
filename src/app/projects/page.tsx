@@ -26,7 +26,7 @@ const Projects: React.FC = () => {
     {
       id: 2,
       title: 'Wowcher',
-      description: "As a Senior iOS Engineer at Wowcher, single-handedly maintained the entire iOS app codebase, handling both simple and complex features. Optimized table view performance with efficient image loading. Implemented new enhancements like scrollable top bar tabs, elevating the overall user experience. Demonstrated expertise in end-to-end app maintenance and feature development.",
+      description: "As a Senior Mobile Engineer at Wowcher, single-handedly maintained the entire Android and iOS app codebase, handling both simple and complex features. Optimized table view performance with efficient image loading. Implemented new enhancements like scrollable top bar tabs, elevating the overall user experience. Demonstrated expertise in end-to-end app maintenance and feature development.",
       image: '/wowcher.png',
       link: 'https://apps.apple.com/gb/app/wowcher-deals-vouchers-uk/id469033575',
     },
