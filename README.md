@@ -1,1 +1,0 @@
-### Nishant Paul - Full Stack Mobile Application Developer (Portfolio)
