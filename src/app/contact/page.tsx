@@ -6,7 +6,7 @@ const Contact: React.FC = () => {
       <section>
         <h2 className="text-3xl font-bold mb-4">Contact Me</h2>
         <p className="mb-8">
-          If you have any questions, project proposals, or just want to say hello, feel free to reach out to me. I'll do my best to respond as soon as possible.
+          If you have any questions, project proposals, or just want to say hello, feel free to reach out to me. I will do my best to respond as soon as possible.
         </p>
         <div className="space-y-4">
           <div>

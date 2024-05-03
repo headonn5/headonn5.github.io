@@ -5,7 +5,7 @@ const Projects: React.FC = () => {
     {
       id: 1,
       title: 'PayPal',
-      description: "As a Senior iOS Engineer at PayPal, I contributed to the development of the core PayPal mobile app. My work focused on enhancing the Onboarding and Privacy verticals to ensure GDPR compliance and integrating the 'Global Pay Later' feature into the Activities domain. Through collaboration with cross-functional teams, I helped deliver a seamless and secure user experience for millions of users worldwide.",
+      description: "As a Senior iOS Engineer at PayPal, I contributed to the development of the core PayPal mobile app. My work focused on enhancing the Onboarding and Privacy verticals to ensure GDPR compliance and integrating the Global Pay Later feature into the Activities domain. Through collaboration with cross-functional teams, I helped deliver a seamless and secure user experience for millions of users worldwide.",
       image: '/paypal.png',
       link: 'https://apps.apple.com/us/app/paypal-send-shop-manage/id283646709',
     },

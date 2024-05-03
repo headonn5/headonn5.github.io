@@ -5,9 +5,9 @@ const Home: React.FC = () => {
   return (
     <main className="container mx-auto py-8">
       <section className="text-center">
-        <h1 className="text-4xl font-bold mb-4">Hi, I'm Nishant</h1>
+        <h1 className="text-4xl font-bold mb-4">Hi, I am Nishant</h1>
         <p className="text-xl mb-8">
-          I'm a passionate Senior iOS Engineer with a knack for crafting exceptional mobile experiences.
+          I am a passionate Senior iOS Engineer with a knack for crafting exceptional mobile experiences.
         </p>
         <div className="flex justify-center space-x-4">
           <Link href="/projects" className="inline-block px-6 py-3 bg-blue-500 text-white rounded-lg shadow-md hover:bg-blue-600 transition duration-200">
